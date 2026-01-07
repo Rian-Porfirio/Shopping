@@ -301,7 +301,7 @@ Com a combinação de testes:
 
 O projeto atinge **cobertura superior a 80%**, atendendo plenamente aos critérios de qualidade e confiabilidade exigidos.
 
-![img.png](img.png)
+<img width="1117" height="226" alt="Captura de tela 2026-01-07 155319" src="https://github.com/user-attachments/assets/d636a50d-4b99-4d26-868f-6955620c55a5" />
 
 ---
 
@@ -314,3 +314,4 @@ Este projeto demonstra de forma prática e completa:
 - Organização e manutenibilidade do código
 
 Atendendo integralmente aos requisitos acadêmicos e profissionais.
+
