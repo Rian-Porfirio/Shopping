@@ -1,0 +1,7 @@
+com\infnet\projeto\products\selenium\base\BaseTest.class
+com\infnet\projeto\products\selenium\tests\ProductTest.class
+com\infnet\projeto\products\api\controller\ProductControllerTest.class
+com\infnet\projeto\products\selenium\tests\ProductNegativeTest.class
+com\infnet\projeto\products\api\service\ProductServiceTest.class
+com\infnet\projeto\products\selenium\pages\ProductPage.class
+com\infnet\projeto\products\ProductsApplicationTests.class

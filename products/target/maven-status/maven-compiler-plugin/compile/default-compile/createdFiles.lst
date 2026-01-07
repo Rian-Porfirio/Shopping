@@ -1,0 +1,6 @@
+com\infnet\projeto\products\domain\Product.class
+com\infnet\projeto\products\config\WebConfig.class
+com\infnet\projeto\products\service\ProductService.class
+com\infnet\projeto\products\controller\ProductController.class
+com\infnet\projeto\products\repository\IProductRepository.class
+com\infnet\projeto\products\ProductsApplication.class

@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+products,com.infnet.projeto.products.service,ProductService,0,31,0,2,0,6,0,5,0,4
+products,com.infnet.projeto.products,ProductsApplication,5,3,0,0,2,1,1,1,1,1
+products,com.infnet.projeto.products.config,WebConfig,0,47,0,0,0,7,0,2,0,2
+products,com.infnet.projeto.products.controller,ProductController,0,28,0,0,0,6,0,5,0,5
